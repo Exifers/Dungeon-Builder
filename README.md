@@ -17,6 +17,9 @@ The result is pretty basic at the moment, but it would be relevant to have :
 - auto generated loot chests
 - gestion of difficulty (increasing the right way)
 
+# Licence
+You're free to use and share this code as you want.
+
 # Author
 Emmanuel aka Exifers
 This project is kind of old though.
