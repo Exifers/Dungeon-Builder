@@ -1,5 +1,13 @@
 # Dungeon-Builder
-Generates a custom format file that describes a dungeon structure to generate in a Minecraft map.
+Generates a custom format file that describes a dungeon structure to generate in a Minecraft map.# Languages                                                                     
+# Test
++ sketch                                                                        
++ mean                                                                          
++ rails                                                                         
++ nodes.js, and javascript libraries                                            
++ ruby                                                                          
++ perl
+
 
 # How to use this project ?
 To generate the structure in a Minecraft world, you will need to use filters in MCEdit (http://www.mcedit.net/). MCEdit allows the user to do all kind of stuff in a Minecraft world given a python script called a filter.
